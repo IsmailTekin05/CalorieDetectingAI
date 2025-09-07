@@ -45,12 +45,6 @@ CalorieDetectingAI is a cutting-edge machine learning application that leverages
 - 📱 **Mobile Friendly**: Lightweight models suitable for mobile deployment
 - 🎨 **User Interface**: Clean and intuitive web interface for testing
 
-## 🚀 Demo
-
-![Demo GIF](assets/demo.gif)
-
-Try the live demo: [CalorieDetectingAI Demo](https://your-demo-link.com)
-
 ## 🛠 Installation
 
 ### Prerequisites
@@ -149,7 +143,7 @@ curl -X POST "http://localhost:8000/analyze" \
 The CalorieDetectingAI system uses a multi-stage deep learning pipeline:
 
 ### 1. Food Detection Model
-- **Base Architecture**: YOLOv5 / EfficientDet
+- **Base Architecture**: YOLOv8 / EfficientDet / CUDA
 - **Purpose**: Locates and identifies food items in images
 - **Output**: Bounding boxes with food class predictions
 
