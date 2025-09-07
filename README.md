@@ -11,7 +11,6 @@ An intelligent AI-powered system that automatically detects and estimates calori
 
 - [Overview](#overview)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Architecture](#model-architecture)
