@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# YOLO / ultralytics outputs
+runs/
+results.pkl
+yolo11n.pt
+yolov8n.pt
+
+# Assets
+asset/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
